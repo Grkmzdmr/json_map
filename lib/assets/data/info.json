@@ -1,208 +1,38 @@
 [
-    {
-        "post_id" : 1,
-        "post_title" : "Hapis Cezası",
-        "post_author" : "Anonim",
-        "post_body" : "On iki yıldır sakladığım sırrımı burada paylaşmak benim için gerçekten rahatlatıcı.",
-        "post_date" : "10.05.2020",
-        "post_likes": 120,
-        "post_comments" : [
-            {
-                "comment_author" : "Anonim2222",
-                "comment_body" : "Umarım rahatlamışsındır."
-
-            },
-            {
-                "comment_author" : "Anonim3342",
-                "comment_body" : "Geçmiş olsun."
-            },
-            {
-                "comment_author" : "Anon33K2",
-                "comment_body" : "Aynı olay başıma gelmişti."
-            },
-            {
-                "comment_author" : "Gork",
-                "comment_body" : "Enteresan bir durum."
-            
-            },
-            {
-                "comment_author" : "MMMMMM",
-                "comment_body": "Saçmalıkkkk"
-            }
-            
-
-        ]
-
+    "data" = [{
+        "id" : 2,
+        "title" : "İtiraf1",
+        "content" : "İlk itiraf",
+        "date" : "2021",
+        "sign" : "anonimG",
+        "likeCount" : 2,
+        "disslikeCount" : 3,
+        "savedCount" : 4,
+        "viewCount" : 4,
+        "language" : 3,
+    
     },
-    {
-        "post_id" : 2,
-        "post_title" : "Okul Cezası",
-        "post_author" : "Anonim123",
-        "post_body" : "Bugün okulda disiplin cezası aldım.",
-        "post_date" : "11.06.2020",
-        "post_likes": 14,
-        "post_comments" : [
-            {
-                "comment_author" : "Anonim2222",
-                "comment_body" : "Umarım rahatlamışsındır."
-
-            },
-            {
-                "comment_author" : "Anonim3342",
-                "comment_body" : "Geçmiş olsun."
-            },
-            {
-                "comment_author" : "Anon33K2",
-                "comment_body" : "Aynı olay başıma gelmişti."
-            }
-
-        ]
-
-        
+      {
+        "id" : 3,
+        "title" : "İtiraf2",
+        "content" : "ikinci itiraf",
+        "date" : "2021",
+        "sign" : "anonimG2",
+        "likeCount" : 23,
+        "disslikeCount" : 3,
+        "savedCount" : 4,
+        "viewCount" : 43,
+        "language" : 3,
+    
     },
-    {
-        "post_id" : 3,
-        "post_title" : "Vicdan Azabı",
-        "post_author" : "Anonim435",
-        "post_body" : "Arkadaşımın sevgilisine aşık oldum.",
-        "post_date" : "07.06.2020",
-        "post_likes": 195,
-        "post_comments" : [
-            {
-                "comment_author" : "Anonim2222",
-                "comment_body" : "Umarım rahatlamışsındır."
-
-            },
-            {
-                "comment_author" : "Anonim3342",
-                "comment_body" : "Geçmiş olsun."
-            },
-            {
-                "comment_author" : "Anon33K2",
-                "comment_body" : "Aynı olay başıma gelmişti."
-            }
-
-        ]
-
-        
-    },
-    {
-        "post_id" : 4,
-        "post_title" : "Hırsızlık",
-        "post_author" : "Anonim5544",
-        "post_body" : "Marketten sakız çaldım.",
-        "post_likes": 74,
-        "post_date" : "19.10.2020", "post_comments" : [
-            {
-                "comment_author" : "Anonim2222",
-                "comment_body" : "Umarım rahatlamışsındır."
-
-            },
-            {
-                "comment_author" : "Anonim3342",
-                "comment_body" : "Geçmiş olsun."
-            },
-            {
-                "comment_author" : "Anon33K2",
-                "comment_body" : "Aynı olay başıma gelmişti."
-            }
-
-        ]
-
-
-        
-    },
-    {
-        "post_id" : 5,
-        "post_title" : "Kavga",
-        "post_author" : "Anonimk90",
-        "post_body" : "Bugün erkek arkadaşım kavga sırasında bana tokat attı.",
-        "post_date" : "18.05.2020",
-        "post_likes": 54,
-        "post_comments" : [
-          
-        ]
-
-        
-    },
-    {
-        "post_id" : 6,
-        "post_title" : "Şahit olmak",
-        "post_author" : "Anonim",
-        "post_body" : " 3 yıl önce cinayete şahit oldum.",
-        "post_date" : "02.04.2020",
-        "post_likes": 10,
-        "post_comments" : [
-            {
-                "comment_author" : "Anonim2222",
-                "comment_body" : "Umarım rahatlamışsındır."
-
-            },
-            {
-                "comment_author" : "Anonim3342",
-                "comment_body" : "Geçmiş olsun."
-            },
-            {
-                "comment_author" : "Anon33K2",
-                "comment_body" : "Aynı olay başıma gelmişti."
-            }
-
-        ]
-
-        
-    },
-    {
-        "post_id" : 7,
-        "post_title" : "Tercihler",
-        "post_author" : "Anonim0090",
-        "post_body" : "3 yıldır ailem tarafından tercihlerim yüzünden yargılanıyorum.",
-        "post_date" : "10.08.2020",
-        "post_likes": 19,
-        "post_comments" : [
-            {
-                "comment_author" : "Anonim2222",
-                "comment_body" : "Umarım rahatlamışsındır."
-
-            },
-            {
-                "comment_author" : "Anonim3342",
-                "comment_body" : "Geçmiş olsun."
-            },
-            {
-                "comment_author" : "Anon33K2",
-                "comment_body" : "Aynı olay başıma gelmişti."
-            }
-
-        ]
-
-        
-    },
-    {
-        "post_id" : 8,
-        "post_title" : "Yalan",
-        "post_author" : "Anon2213",
-        "post_body" : "Kız arkadaşıma evdeyim diye yalan atıp dışarı çıkıyorum.",
-        "post_date" : "28.05.2020",
-        "post_likes": 23,
-        "post_comments" : [
-            {
-                "comment_author" : "Anonim2222",
-                "comment_body" : "Umarım rahatlamışsındır."
-
-            },
-            {
-                "comment_author" : "Anonim3342",
-                "comment_body" : "Geçmiş olsun."
-            },
-            {
-                "comment_author" : "Anon33K2",
-                "comment_body" : "Aynı olay başıma gelmişti."
-            }
-
-        ]
-
-        
-    }
+     
+    
+    
+    
+    
+    
+    
+    ]
    
 
 
