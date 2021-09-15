@@ -11,18 +11,6 @@
         "viewCount" : 4,
         "language" : 3,
     
-    },
-      {
-        "id" : 3,
-        "title" : "İtiraf2",
-        "content" : "ikinci itiraf",
-        "date" : "2021",
-        "sign" : "anonimG2",
-        "likeCount" : 23,
-        "disslikeCount" : 3,
-        "savedCount" : 4,
-        "viewCount" : 43,
-        "language" : 3,
-    
-    }]
+    }
+     ]
   }
