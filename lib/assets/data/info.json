@@ -1,15 +1,12 @@
-"data" : [{
-        "id" : 2,
-        "title" : "İtiraf1",
-        "content" : "İlk itiraf",
-        "date" : "2021",
-        "sign" : "anonimG",
-        "likeCount" : 2,
-        "disslikeCount" : 3,
-        "savedCount" : 4,
-        "viewCount" : 4,
-        "language" : 3,
-    
-    }
-     ]
-  
+{"data": {
+  "id": 1,
+  "title": "File",
+  "content": "selam",
+  "date" : "2021",
+  "sign" : "anonoim",
+  "likeCount" : 23,
+  "disslikeCount" : 4,
+  "savedCount" : 3,
+  "viewCount" : 3,
+  "language" : "TR",      
+}}
