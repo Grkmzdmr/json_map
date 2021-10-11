@@ -1,15 +1,21 @@
 [{
-  "data": {
-    "id": 1,
-    "title": "File",
-    "content": "selam",
-    "date" : "2021",
-    "sign" : "anonoim",
-    "likeCount" : 23,
-    "disslikeCount" : 4,
-    "savedCount" : 3,
-    "viewCount" : 3,
-    "language" : "TR",      
-}
+  "person" : {
+    "personId" : 1,
+    "personEmail" : "gorkem.8@hotmail.com",
+    "personPassword" : "123456",
+    "profilUrl" : "deneme",
+    "userName" : "Grkmzdmr",
+    "personName" : "Görkem",
+    "personSurname" : "Özdemir",
+   },
+  {
+    "personId" : 2,
+    "personEmail" : "eni.8@hotmail.com",
+    "personPassword" : "123456",
+    "profilUrl" : "deneme",
+    "userName" : "enihm",
+    "personName" : "Eni",
+    "personSurname" : "Himbeqa",
+   }
   
 }]
