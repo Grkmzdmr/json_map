@@ -1,4 +1,4 @@
-[
+[{
   {
     "personId" : 1,
     "personEmail" : "gorkem.8@hotmail.com",
@@ -17,4 +17,5 @@
     "personName" : "Eni",
     "personSurname" : "Himbeqa",
    }
+ }
   ]
