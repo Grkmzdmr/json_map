@@ -7,14 +7,6 @@
     "userName" : "Grkmzdmr",
     "personName" : "Görkem",
     "personSurname" : "Özdemir",
-   },
-  {
-    "personId" : 2,
-    "personEmail" : "eni.8@hotmail.com",
-    "personPassword" : "123456",
-    "profilUrl" : "deneme",
-    "userName" : "enihm",
-    "personName" : "Eni",
-    "personSurname" : "Himbeqa",
    }
+
   ]
