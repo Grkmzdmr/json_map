@@ -1,5 +1,5 @@
-[
- "person":{
+
+ {
     "personId" : 1,
     "personEmail" : "gorkem.8@hotmail.com",
     "personPassword" : "123456",
@@ -8,4 +8,4 @@
     "personName" : "Görkem",
     "personSurname" : "Özdemir",
    }
-  ]
+  
