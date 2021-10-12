@@ -7,5 +7,11 @@
   ]
 
 
-}
+},
+ {
+ "questionId" : 2,
+ "questionText" : "Sanat sanat için midir yoksa estetik mi ? ",
+ "potentialAnswers" : ["Sanat içindir","Estetik içindir"]
+   
+ }
 ]
