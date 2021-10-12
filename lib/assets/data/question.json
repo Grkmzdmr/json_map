@@ -13,5 +13,17 @@
  "questionText" : "Sanat sanat için midir yoksa estetik mi ? ",
  "potentialAnswers" : ["Sanat içindir","Estetik içindir"]
    
+ },
+  {
+ "questionId" : 3,
+ "questionText" : "Gelecekte uçan arabalar olacak mı ? ",
+ "potentialAnswers" : ["Olacak","Olmayacak"]
+   
+ },
+  {
+ "questionId" : 4,
+ "questionText" : "Trabzon 4 büyük müdür değil midir ? ",
+ "potentialAnswers" : ["Öyledir","Değildir"]
+   
  }
 ]
