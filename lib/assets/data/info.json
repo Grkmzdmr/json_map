@@ -6,7 +6,8 @@
     "profilUrl" : "deneme",
     "userName" : "Grkmzdmr",
     "personName" : "Görkem",
-    "personSurname" : "Özdemir"
+    "personSurname" : "Özdemir",
+    "personScore" : "230"
    },
  {
     "personId" : 2,
@@ -16,6 +17,7 @@
     "userName" : "enihm",
     "personName" : "Eni",
     "personSurname" : "Himbeqa"
+    "personScore" : "2134"
    },
  { 
   "personId" : 3,
@@ -25,6 +27,7 @@
   "userName" : "Rmhanay",
   "personName" : "Rümeysa",
   "personSurname" : "Hanay"
+  "personScore" : "120"
  
  
  }
