@@ -30,7 +30,47 @@
   "personScore" : "120"
  
  
- }
+ },
+ {
+    "personId" : 4,
+    "personEmail" : "ernklft@hotmail.com",
+    "personPassword" : "123456",
+    "profilUrl" : "deneme",
+    "userName" : "ernklft",
+    "personName" : "Eren",
+    "personSurname" : "Kalafat",
+    "personScore" : "102"
+   },
+ {
+    "personId" : 5,
+    "personEmail" : "srdrckr@hotmail.com",
+    "personPassword" : "123456",
+    "profilUrl" : "deneme",
+    "userName" : "srdckr",
+    "personName" : "Serdar",
+    "personSurname" : "Çakır",
+    "personScore" : "704"
+   },
+ {
+    "personId" : 6,
+    "personEmail" : "berkhnzn@hotmail.com",
+    "personPassword" : "1233456",
+    "profilUrl" : "deneme",
+    "userName" : "brkhzn",
+    "personName" : "Berkhan",
+    "personSurname" : "Özen",
+    "personScore" : "1082"
+   },
+ {
+    "personId" : 7,
+    "personEmail" : "guno@hotmail.com",
+    "personPassword" : "123456",
+    "profilUrl" : "deneme",
+    "userName" : "guno",
+    "personName" : "Eren",
+    "personSurname" : "Günaydın",
+    "personScore" : "2159"
+   }
  
  
 ]
