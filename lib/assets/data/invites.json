@@ -2,13 +2,15 @@
   {
     "takeInvite" : "grkmzdmr",
     "sendInvite" : "enhmb",
-    "inviteSituation" : "waiting"
+    "inviteSituation" : "waiting",
+    "matchQuestion" : "Menemen soğanlı mı yeni soğansız mı?"
   
   },
   {
     "takeInvite" : "grkmzdmr",
-    "sendInvite": "sasdl",
-    "inviteSituation" : "done"
+    "sendInvite": "serdarc",
+    "inviteSituation" : "done",
+    "matchQuestion" : "Soru2"
   }
 
 
