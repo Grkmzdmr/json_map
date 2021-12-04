@@ -4,7 +4,7 @@
     "personEmail" : "gorkem.8@hotmail.com",
     "personPassword" : "123456",
     "profilUrl" : "deneme",
-    "userName" : "Grkmzdmr",
+    "sign" : "Grkmzdmr",
     "personName" : "Görkem",
     "personSurname" : "Özdemir",
     "personScore" : "230"
@@ -14,7 +14,7 @@
     "personEmail" : "eni.8@hotmail.com",
     "personPassword" : "123456",
     "profilUrl" : "deneme",
-    "userName" : "enihm",
+    "sign" : "enihm",
     "personName" : "Eni",
     "personSurname" : "Himbeqa",
     "personScore" : "2134"
@@ -24,7 +24,7 @@
   "personEmail" : "rm.@gmail.com",
   "personPassword" : "2323",
   "profilUrl" :"rmm",
-  "userName" : "Rmhanay",
+  "sign" : "Rmhanay",
   "personName" : "Rümeysa",
   "personSurname" : "Hanay",
   "personScore" : "120"
@@ -36,7 +36,7 @@
     "personEmail" : "ernklft@hotmail.com",
     "personPassword" : "123456",
     "profilUrl" : "deneme",
-    "userName" : "ernklft",
+    "sign" : "ernklft",
     "personName" : "Eren",
     "personSurname" : "Kalafat",
     "personScore" : "102"
@@ -46,7 +46,7 @@
     "personEmail" : "srdrckr@hotmail.com",
     "personPassword" : "123456",
     "profilUrl" : "deneme",
-    "userName" : "srdckr",
+    "sign" : "srdckr",
     "personName" : "Serdar",
     "personSurname" : "Çakır",
     "personScore" : "704"
@@ -56,7 +56,7 @@
     "personEmail" : "berkhnzn@hotmail.com",
     "personPassword" : "1233456",
     "profilUrl" : "deneme",
-    "userName" : "brkhzn",
+    "sign" : "brkhzn",
     "personName" : "Berkhan",
     "personSurname" : "Özen",
     "personScore" : "1082"
@@ -66,7 +66,7 @@
     "personEmail" : "guno@hotmail.com",
     "personPassword" : "123456",
     "profilUrl" : "deneme",
-    "userName" : "guno",
+    "sign" : "guno",
     "personName" : "Eren",
     "personSurname" : "Günaydın",
     "personScore" : "2159"
