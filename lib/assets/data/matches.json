@@ -5,6 +5,14 @@
     "matchSituation" : true,
     "matchResult" : "Kazandın",
     "matchQuestion" : "Menemen soğanlı mı yenir soğansız mı ?"
+  },
+  {
+    "firstPersonId" : "Grkmzdmr",
+    "secondPersonId" : "ernklft",
+    "matchSituation" : true,
+    "matchResult" : "Kaybettin",
+    "matchQuestion" : "Arabalar gelecekte uçacaklar mı?"
+  
   }
   
   
