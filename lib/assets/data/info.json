@@ -7,7 +7,7 @@
     "sign" : "Grkmzdmr",
     "personName" : "Görkem",
     "personSurname" : "Özdemir",
-    "personScore" : "230"
+    "personScore" : 230
    },
  {
     "personId" : 2,
@@ -17,7 +17,7 @@
     "sign" : "enihm",
     "personName" : "Eni",
     "personSurname" : "Himbeqa",
-    "personScore" : "2134"
+    "personScore" : 2134
    },
  { 
   "personId" : 3,
@@ -27,7 +27,7 @@
   "sign" : "Rmhanay",
   "personName" : "Rümeysa",
   "personSurname" : "Hanay",
-  "personScore" : "120"
+  "personScore" : 120
  
  
  },
@@ -39,7 +39,7 @@
     "sign" : "ernklft",
     "personName" : "Eren",
     "personSurname" : "Kalafat",
-    "personScore" : "102"
+    "personScore" : 102
    },
  {
     "personId" : 5,
@@ -49,7 +49,7 @@
     "sign" : "srdckr",
     "personName" : "Serdar",
     "personSurname" : "Çakır",
-    "personScore" : "704"
+    "personScore" : 704
    },
  {
     "personId" : 6,
@@ -59,7 +59,7 @@
     "sign" : "brkhzn",
     "personName" : "Berkhan",
     "personSurname" : "Özen",
-    "personScore" : "1082"
+    "personScore" : 1082
    },
  {
     "personId" : 7,
@@ -69,7 +69,7 @@
     "sign" : "guno",
     "personName" : "Eren",
     "personSurname" : "Günaydın",
-    "personScore" : "2159"
+    "personScore" : 2159
    }
  
  
