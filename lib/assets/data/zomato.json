@@ -7,7 +7,15 @@
   "hours" : "Pazar",
   "phone" : "5454"
    
-}
+},
+ {
+   "name" : "Kaldis",
+   "photo" : "kaldis.jpg",
+   "menuphoto" : "kaldismenu.jpg",
+   "adress" : "Adres: Yukarı Zaferiye, Hastane Cd., 22800 Keşan/Edirne",
+   "hours" : "Pazar",
+   "phone" : "32"
+ }
  
 
 
