@@ -1,8 +1,8 @@
 [{
   
   "name" :"Doksanlar Cafe",
-  "photo" : "doksanlar.jpg",
-  "menuphoto" : "doksanlarmenu.jpg",
+  "photo" : "doksanlar.jpeg",
+  "menuphoto" : "doksanlarmenu.jpeg",
   "adress" : "Yukarı Zaferiye,Hastane Cd.,22800 Keşan/Edirne",
   "hours" : "Pazar",
   "phone" : "5454"
@@ -10,8 +10,8 @@
 },
  {
    "name" : "Kaldis",
-   "photo" : "kaldis.jpg",
-   "menuphoto" : "kaldismenu.jpg",
+   "photo" : "kaldis.jpeg",
+   "menuphoto" : "kaldismenu.jpeg",
    "adress" : "Adres: Yukarı Zaferiye, Hastane Cd., 22800 Keşan/Edirne",
    "hours" : "Pazar",
    "phone" : "32"
