@@ -4,7 +4,8 @@
   "photo" : "doksanlar.jpeg",
   "menuphoto" : "doksanlarmenu.jpeg",
   "adress" : "Yukarı Zaferiye,Hastane Cd.,22800 Keşan/Edirne",
-  "monday" : "Pazartesi 10:00 23:00"
+  "weekdays" : "Haftaiçi 10:00 ile 23:00 arası",
+  "weekend" : "Haftasonu 10:00 ile 23:00 arası,
   "phone" : "(0284) 715 22 85"
    
 },
@@ -13,7 +14,8 @@
    "photo" : "kaldis.jpeg",
    "menuphoto" : "kaldismenu.jpeg",
    "adress" : "Yukarı Zaferiye, Hastane Cd., 22800 Keşan/Edirne",
-   "hours" : "Pazar",
+   "weekdays" : "Haftaiçi 09:00 ile 02:00 arası"
+   "weekend" : "Haftasonu 10:00 ile 23:00 arası,
    "phone" : "(0284) 712 22 24"
  },
  {
