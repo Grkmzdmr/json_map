@@ -12,10 +12,58 @@
    "name" : "Kaldis",
    "photo" : "kaldis.jpeg",
    "menuphoto" : "kaldismenu.jpeg",
-   "adress" : "Adres: Yukarı Zaferiye, Hastane Cd., 22800 Keşan/Edirne",
+   "adress" : "Yukarı Zaferiye, Hastane Cd., 22800 Keşan/Edirne",
    "hours" : "Pazar",
    "phone" : "32"
- }
+ },
+ {
+   "name": "MOODDA",
+   "photo" : "moodda.jpeg",
+   "menuphoto" : "mooddamenu.jpeg",
+   "adress" : "Yukarı Zaferıye Mah., Hastane Cad. No:1, 22800 Keşan/Edirne",
+   "hours" : "Pazar",
+   "phone" : "23"
+ 
+ },
+  {
+   "name": "Osmanlı",
+   "photo" : "osmanlı.jpeg",
+   "menuphoto" : "osmanlımenu.jpeg",
+   "adress" : "Yukarı Zaferiye, Medya Caddesİ No: 1 D:11, 22800 Keşan/Edirne",
+   "hours" : "Pazar",
+   "phone" : "23"
+ 
+ },
+  {
+   "name": "Etiler Marmaris",
+   "photo" : "etilermarmaris.jpeg",
+   "menuphoto" : "etilermarmarismenu.jpeg",
+   "adress" : " Yukarı Zaferiye, Önder Cd No:28, 22800 Keşan/Edirne",
+   "hours" : "Pazar",
+   "phone" : "23"
+ 
+ },
+ {
+   "name": "Pastalina",
+   "photo" : "pastalina.jpeg",
+   "menuphoto" : "pastalina.jpeg",
+   "adress" : " Yukarı Zaferiye, 22800 Keşan/Edirne",
+   "hours" : "Pazar",
+   "phone" : "23"
+ 
+ },
+  {
+   "name": "Sinemin Şeker Mutfağı",
+   "photo" : "sinem.jpeg",
+   "menuphoto" : "sinemmenu.jpeg",
+   "adress" : " Yukarı Zaferiye, Mahallesi, Medya Caddesİ no4, 22800 Keşan/Edirne",
+   "hours" : "Pazar",
+   "phone" : "23"
+ 
+ },
+ 
+ 
+ 
  
 
 
